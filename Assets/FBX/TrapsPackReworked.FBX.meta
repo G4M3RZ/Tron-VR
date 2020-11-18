@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 2f2be65b5daa74b4fb9d3117d79b846c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BaseForBall
+    100002: Circle01
+    100004: Circle02
+    100006: Circle03
+    100008: Circle05
+    100010: CirclePieceMove
+    100012: CirclePieceStatic
+    100014: CircleSmall01
+    100016: CircleSmall02
+    100018: CircleSmall03
+    100020: CircleSmall04
+    100022: CircleSmall05
+    100024: CircleSmall06
+    100026: HalfCircle01
+    100028: Helix
+    100030: Pike
+    100032: Sphere003
+    100034: //RootNode
+    100036: WeirdPiece
+    400000: BaseForBall
+    400002: Circle01
+    400004: Circle02
+    400006: Circle03
+    400008: Circle05
+    400010: CirclePieceMove
+    400012: CirclePieceStatic
+    400014: CircleSmall01
+    400016: CircleSmall02
+    400018: CircleSmall03
+    400020: CircleSmall04
+    400022: CircleSmall05
+    400024: CircleSmall06
+    400026: HalfCircle01
+    400028: Helix
+    400030: Pike
+    400032: Sphere003
+    400034: //RootNode
+    400036: WeirdPiece
+    2100000: TrapsTextures
+    2300000: BaseForBall
+    2300002: Circle01
+    2300004: Circle02
+    2300006: Circle03
+    2300008: Circle05
+    2300010: CirclePieceMove
+    2300012: CirclePieceStatic
+    2300014: CircleSmall01
+    2300016: CircleSmall02
+    2300018: CircleSmall03
+    2300020: CircleSmall04
+    2300022: CircleSmall05
+    2300024: CircleSmall06
+    2300026: HalfCircle01
+    2300028: Helix
+    2300030: Pike
+    2300032: Sphere003
+    2300034: WeirdPiece
+    3300000: BaseForBall
+    3300002: Circle01
+    3300004: Circle02
+    3300006: Circle03
+    3300008: Circle05
+    3300010: CirclePieceMove
+    3300012: CirclePieceStatic
+    3300014: CircleSmall01
+    3300016: CircleSmall02
+    3300018: CircleSmall03
+    3300020: CircleSmall04
+    3300022: CircleSmall05
+    3300024: CircleSmall06
+    3300026: HalfCircle01
+    3300028: Helix
+    3300030: Pike
+    3300032: Sphere003
+    3300034: WeirdPiece
+    4300000: Circle01
+    4300002: Circle02
+    4300004: Circle03
+    4300006: HalfCircle01
+    4300008: BaseForBall
+    4300010: Sphere003
+    4300012: CircleSmall01
+    4300014: CircleSmall02
+    4300016: CircleSmall03
+    4300018: CircleSmall04
+    4300020: CircleSmall05
+    4300022: CircleSmall06
+    4300024: CirclePieceStatic
+    4300026: Helix
+    4300028: Pike
+    4300030: Circle05
+    4300032: WeirdPiece
+    4300034: CirclePieceMove
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
