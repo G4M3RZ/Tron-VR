@@ -23,7 +23,10 @@ public class SpawnPosition : MonoBehaviour
         if (_editMode)
         {
             for (int i = -1; i <= 1; i++)
+            { 
                 spawners[i + 1].position = new Vector3(i * _separation, _up, _distance);
+                spawners[i + 1].localEulerAngles = new Vector3(0, 180, 0); 
+            }
         }
     }
 }

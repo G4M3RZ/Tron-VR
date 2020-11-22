@@ -643,12 +643,14 @@ MonoBehaviour:
   _currentSpeed: 0
   _spawnTime: 0
   _startSpeed: 20
-  _maxSpeed: 85
+  _maxSpeed: 70
   _sInitTime: 3
-  _sLastTime: 0.8
+  _sLastTime: 0.9
   backLimit: 10
+  _map:
+  - {fileID: 1189999972}
+  - {fileID: 1803171899}
   _tutorial: {fileID: 420486821}
-  _shield: {fileID: 0}
 --- !u!114 &622436480
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -723,7 +725,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 710686289}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
   m_LocalPosition: {x: 2.5, y: -2.5, z: 100}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -745,8 +747,7 @@ MonoBehaviour:
   _shield: {fileID: 0}
   _obs:
   - {fileID: 1296024740470816, guid: 80694d8664270ef4490573f29df3d7ac, type: 3}
-  _position: {x: 0, y: 3.2, z: 0}
-  _rotation: {x: 0, y: 180, z: 0}
+  _position: 3.2
   _backwards: 0
 --- !u!1 &731088253
 GameObject:
@@ -2130,7 +2131,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scrollx: 0
-  scrolly: -0.3
+  scrolly: -0.28
 --- !u!23 &1803171900
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2204,7 +2205,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1883509414}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
   m_LocalPosition: {x: -2.5, y: -2.5, z: 100}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -2225,10 +2226,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _shield: {fileID: 0}
   _obs:
-  - {fileID: 1296024740470816, guid: 80694d8664270ef4490573f29df3d7ac, type: 3}
-  _position: {x: 0, y: 3.2, z: 0}
-  _rotation: {x: 0, y: 0, z: 0}
-  _backwards: 1
+  - {fileID: 1296024740470816, guid: 5adf01f73a3cf15449846692f4d306c5, type: 3}
+  _position: 3.2
+  _backwards: 0
 --- !u!1 &1892958497
 GameObject:
   m_ObjectHideFlags: 0
@@ -2404,7 +2404,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1943860277}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
   m_LocalPosition: {x: 0, y: -2.5, z: 100}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -2426,8 +2426,7 @@ MonoBehaviour:
   _shield: {fileID: 1990150928017081189, guid: 73b779287f34d2944b5b5779f5ee0799, type: 3}
   _obs:
   - {fileID: 1689829756000444, guid: db09c15a5443b5a4db1687d182c63363, type: 3}
-  _position: {x: 0, y: 3, z: 0}
-  _rotation: {x: 0, y: 180, z: 0}
+  _position: 3
   _backwards: 0
 --- !u!1 &1965443812
 GameObject:
